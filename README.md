@@ -22,11 +22,8 @@ Java-Quiz-System/
 │   └── QuizSystem.java      
 │
 ├── README.md
-├── .gitignore
-├── LICENSE
-│
-└── docs/
-    └── project-report.md
+
+
 
 
 
